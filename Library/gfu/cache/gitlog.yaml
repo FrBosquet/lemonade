@@ -13,9 +13,112 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-05-25T12:09:05.721+02:00
+  lastUpdatedAtString: 2020-05-25T12:13:33.973+02:00
   initializedAtString: 2020-05-25T12:04:56.485+02:00
   log:
+  - commitID: 6735248bad11fe376be0024001d5422345bdde6c
+    mergeA: 
+    mergeB: 
+    authorName: Fran Bosquet
+    authorEmail: frbosquet@gmail.com
+    commitEmail: frbosquet@gmail.com
+    commitName: Fran Bosquet
+    summary: update rest
+    description: 
+    timeString: 2020-05-25T12:09:45.000+02:00
+    commitTimeString: 2020-05-25T12:09:45.000+02:00
+    changes:
+    - path: Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: C:\Users\curro\Google Drive\Documentos\Unity\Short projects Early
+        2020\lemonade\Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assembly-CSharp.csproj
+      fullPath: C:\Users\curro\Google Drive\Documentos\Unity\Short projects Early
+        2020\lemonade\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: C:\Users\curro\Google Drive\Documentos\Unity\Short projects Early
+        2020\lemonade\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\curro\Google Drive\Documentos\Unity\Short projects Early
+        2020\lemonade\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\curro\Google Drive\Documentos\Unity\Short projects Early
+        2020\lemonade\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\curro\Google Drive\Documentos\Unity\Short projects Early
+        2020\lemonade\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\curro\Google Drive\Documentos\Unity\Short projects Early
+        2020\lemonade\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\curro\Google Drive\Documentos\Unity\Short projects Early
+        2020\lemonade\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Logs\Packages-Update.log
+      fullPath: C:\Users\curro\Google Drive\Documentos\Unity\Short projects Early
+        2020\lemonade\Logs\Packages-Update.log
+      projectPath: Logs\Packages-Update.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Packages\manifest.json
+      fullPath: C:\Users\curro\Google Drive\Documentos\Unity\Short projects Early
+        2020\lemonade\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: C:\Users\curro\Google Drive\Documentos\Unity\Short projects Early
+        2020\lemonade\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\VersionControlSettings.asset
+      fullPath: C:\Users\curro\Google Drive\Documentos\Unity\Short projects Early
+        2020\lemonade\ProjectSettings\VersionControlSettings.asset
+      projectPath: ProjectSettings\VersionControlSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UserSettings\EditorUserSettings.asset
+      fullPath: C:\Users\curro\Google Drive\Documentos\Unity\Short projects Early
+        2020\lemonade\UserSettings\EditorUserSettings.asset
+      projectPath: UserSettings\EditorUserSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
   - commitID: 2c0ed3d56d9f2ec79ef491e867c5ab674445ba19
     mergeA: 
     mergeB: 
